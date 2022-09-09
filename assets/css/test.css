@@ -1,0 +1,36 @@
+/**================ Navbar ================*/
+
+.site-header .navbar-nav .nav-item {
+	padding: 10px 20px;
+}
+
+.site-header .navbar-nav .nav-item:first-child {
+	padding-left: 0;
+}
+
+.site-header .navbar-nav .nav-item:last-child {
+	padding-right: 0;
+}
+@media (min-width: 768px) {
+	/** Header */
+
+	.site-header .container {
+		padding-top: 12px;
+		padding-bottom: 12px;
+	}
+
+	.site-header .navbar-nav {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		font-size: 1em;
+		-webkit-justify-content: space-around;
+		-ms-flex-pack: distribute;
+		justify-content: space-around;
+	}
+
+	.navbar > .container .navbar-brand {
+		margin-left: 0;
+	}
+}

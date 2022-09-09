@@ -1,0 +1,350 @@
+/**================ Home Page ================*/
+
+#bubbles .home-bubble .left-1 {
+	width: 7%;
+	top: 26%;
+	left: 1%;
+}
+#bubbles .home-bubble .left-1-1 {
+	width: 7%;
+	top: 65%;
+	left: 1%;
+}
+#bubbles .home-bubble .left-2 {
+	width: 4.5%;
+	top: 31%;
+	left: 7%;
+}
+#bubbles .home-bubble .left-3 {
+	width: 4%;
+	top: 44%;
+	left: 1.5%;
+}
+#bubbles .home-bubble .left-4 {
+	width: 6%;
+	top: 46%;
+	left: 5.5%;
+}
+#bubbles .home-bubble .left-4-1 {
+	width: 6%;
+	top: 44%;
+	left: 5.5%;
+}
+#bubbles .home-bubble .left-5 {
+	width: 11%;
+	top: 60%;
+	left: -3%;
+}
+#bubbles .home-bubble .left-5-1 {
+	width: 11%;
+	top: 25%;
+	left: -3%;
+}
+#bubbles .home-bubble .left-6 {
+	width: 11%;
+	top: 86%;
+	left: 15%;
+}
+#bubbles .home-bubble .left-7 {
+	width: 11%;
+	top: 89%;
+	left: 12.5%;
+}
+#bubbles .home-bubble .left-8 {
+	width: 11%;
+	top: 92%;
+	left: 10%;
+}
+#bubbles .home-bubble .right-1 {
+	width: 5%;
+	top: 28%;
+	right: 3%;
+}
+#bubbles .home-bubble .right-2 {
+	width: 5.5%;
+	top: 32%;
+	right: 7%;
+}
+#bubbles .home-bubble .right-3 {
+	width: 7.5%;
+	top: 3%;
+	right: -1.5%;
+}
+#bubbles .home-bubble .right-4 {
+	width: 12%;
+	top: 42%;
+	right: 5%;
+}
+#bubbles .home-bubble .right-5 {
+	width: 5.5%;
+	top: 40%;
+	right: 6%;
+}
+#bubbles .home-bubble .right-6 {
+	width: 5%;
+	top: 47%;
+	right: 7%;
+}
+#bubbles .home-bubble .right-7 {
+	width: 4%;
+	top: 50%;
+	right: 3%;
+}
+#bubbles .home-bubble .right-8 {
+	width: 4%;
+	top: 64.5%;
+	right: 7%;
+}
+#bubbles .home-bubble .right-9 {
+	width: 4.5%;
+	top: 65.5%;
+	right: 8.5%;
+}
+#bubbles .home-bubble .right-9-1 {
+	width: 4.5%;
+	top: 23.5%;
+	right: 5%;
+}
+#bubbles .home-bubble .right-10 {
+	width: 4%;
+	top: 73%;
+	right: 20%;
+}
+#bubbles .home-bubble .right-11 {
+	width: 6%;
+	top: 74%;
+	right: 23%;
+}
+#bubbles .home-bubble .right-12 {
+	width: 6%;
+	top: 78%;
+	right: 22%;
+}
+#bubbles .home-bubble .right-13 {
+	width: 3.5%;
+	top: 85%;
+	right: 17.5%;
+}
+#bubbles .home-bubble .right-14 {
+	width: 2.2%;
+	top: 83%;
+	right: 12.5%;
+}
+#bubbles .home-bubble .right-15 {
+	width: 4%;
+	top: 88%;
+	right: 6%;
+}
+#bubbles .home-bubble .right-16 {
+	width: 2.2%;
+	top: 84%;
+	right: 4%;
+}
+#bubbles .home-bubble .right-17 {
+	width: 3%;
+	top: 88.5%;
+	right: 2.5%;
+}
+#bubbles .home-bubble .right-18 {
+	width: 6%;
+	top: 90%;
+	right: -2%;
+}
+#bubbles .home-bubble .right-19 {
+	width: 14%;
+	top: 96%;
+	right: 9%;
+}
+#bubbles .home-bubble .right-20 {
+	width: 10%;
+	top: 95.5%;
+	right: 15%;
+}
+
+/**================ Promotion Page ================*/
+
+.bubbles-promotion .home-bubble .left-1 {
+	width: 8% !important;
+	top: 3% !important;
+	left: 1% !important;
+}
+.bubbles-promotion .left-2 {
+	width: 8% !important;
+	top: 17% !important;
+	left: 3% !important;
+}
+.bubbles-promotion .left-3 {
+	bottom: 21% !important;
+	left: 4.5% !important;
+	top: unset !important;
+}
+.bubbles-promotion .left-4 {
+	right: 3% !important;
+	top: 21% !important;
+	left: unset !important;
+}
+.bubbles-promotion .home-bubble .left-5 {
+	width: 11% !important;
+	top: 60% !important;
+	left: -3% !important;
+}
+.bubbles-promotion .left-6 {
+	right: 0% !important;
+	top: 37% !important;
+	left: unset !important;
+}
+.bubbles-promotion .left-7 {
+	left: -0.5% !important;
+}
+.bubbles-promotion .home-bubble .left-8 {
+	width: 11% !important;
+	top: 54% !important;
+	left: 10% !important;
+}
+.bubbles-promotion .right-3 {
+	right: 1.5% !important;
+	top: 4% !important;
+}
+.bubbles-promotion .right-4 {
+	top: unset !important;
+	bottom: 15.5% !important;
+}
+.bubbles-promotion .right-6 {
+	top: 14% !important;
+}
+.bubbles-promotion .home-bubble .right-8 {
+	width: 4% !important;
+	top: 21.5% !important;
+	right: 7% !important;
+}
+.bubbles-promotion .right-18 {
+	top: 74.5% !important;
+	right: 0% !important;
+}
+.bubbles-promotion .home-bubble .right-20 {
+	width: 10% !important;
+	top: 46.5% !important;
+	right: 15% !important;
+}
+.bubbles-promotion .right-181 {
+	left: -4% !important;
+	top: 84% !important;
+	right: unset !important;
+}
+/** -------------------------------- */
+.site-promotion.khuyenmai #bubbles .home-bubble .left-1-1 {
+	width: 7%;
+	top: 65%;
+	left: 1%;
+}
+.site-promotion.khuyenmai #bubbles .home-bubble .left-3 {
+	width: 4%;
+	top: -4%;
+	left: 1.5%;
+}
+.site-promotion.khuyenmai #bubbles .home-bubble .right-9-1 {
+	width: 4.5%;
+	top: 17.5%;
+	right: 3.5%;
+}
+.site-promotion.khuyenmai #bubbles .home-bubble .right-10 {
+	width: 4%;
+	top: 27%;
+	right: 20%;
+}
+.site-promotion.khuyenmai #bubbles .home-bubble .right-11 {
+	width: 6%;
+	top: 40%;
+	right: 23%;
+}
+.site-promotion.khuyenmai #bubbles .home-bubble .right-12 {
+	width: 6%;
+	top: 43%;
+	right: 22%;
+}
+.site-promotion.khuyenmai #bubbles .home-bubble .right-13 {
+	width: 3.5%;
+	top: 35%;
+	right: 17.5%;
+}
+.site-promotion.khuyenmai #bubbles .home-bubble .right-14 {
+	width: 2.2%;
+	top: 43%;
+	right: 12.5%;
+}
+.site-promotion.khuyenmai #bubbles .home-bubble .right-15 {
+	width: 4%;
+	top: 88%;
+	right: 6%;
+}
+.site-promotion.khuyenmai #bubbles .home-bubble .right-16 {
+	width: 2.2%;
+	top: 52.5%;
+	right: 4%;
+}
+.site-promotion.khuyenmai #bubbles .home-bubble .right-17 {
+	width: 3%;
+	top: 48%;
+	right: 2.5%;
+}
+.site-promotion.khuyenmai #bubbles .home-bubble .right-18 {
+	width: 6%;
+	top: 62%;
+	right: -2%;
+}
+.site-promotion.khuyenmai #bubbles .home-bubble .right-19 {
+	width: 14%;
+	top: 26%;
+	right: 7.5%;
+}
+.site-promotion.khuyenmai #bubbles .home-bubble .right-20 {
+	width: 10%;
+	top: 40%;
+	right: 15%;
+}
+/**================ Dealer Page ================*/
+#bubbles .dealer-bubble .left-1 {
+	width: 7%;
+	top: 18%;
+	left: 1%;
+}
+#bubbles .dealer-bubble .left-2 {
+	width: 4.5%;
+	top: 36%;
+	left: 7%;
+}
+#bubbles .dealer-bubble .left-3 {
+	width: 4%;
+	top: 78%;
+	left: 1.5%;
+}
+#bubbles .dealer-bubble .left-4 {
+	width: 6%;
+	top: 84%;
+	left: 5.5%;
+}
+#bubbles .dealer-bubble .right-1 {
+	width: 5%;
+	top: 40%;
+	right: 3%;
+}
+#bubbles .dealer-bubble .right-2 {
+	width: 5.5%;
+	top: 50%;
+	right: 8%;
+}
+#bubbles .dealer-bubble .right-3 {
+	width: 7.5%;
+	top: 51%;
+	right: -1.5%;
+}
+#bubbles .dealer-bubble .right-4 {
+	width: 5.5%;
+	top: 70%;
+	right: 9%;
+}
+#bubbles .dealer-bubble .right-5 {
+	width: 6%;
+	top: 98%;
+	right: 6%;
+}
