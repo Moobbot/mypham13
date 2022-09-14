@@ -1,3 +1,19 @@
+/** bubbles */
+
+#bubbles {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	/* overflow: hidden; */
+}
+
+#bubbles .bubble {
+	position: absolute;
+}
 /**================ Home Page ================*/
 
 #bubbles .home-bubble .left-1 {
@@ -42,17 +58,17 @@
 }
 #bubbles .home-bubble .left-6 {
 	width: 11%;
-	top: 86%;
+	top: 84%;
 	left: 15%;
 }
 #bubbles .home-bubble .left-7 {
 	width: 11%;
-	top: 89%;
+	top: 84%;
 	left: 12.5%;
 }
 #bubbles .home-bubble .left-8 {
 	width: 11%;
-	top: 92%;
+	top: 84%;
 	left: 10%;
 }
 #bubbles .home-bubble .right-1 {
@@ -157,7 +173,7 @@
 }
 #bubbles .home-bubble .right-20 {
 	width: 10%;
-	top: 95.5%;
+	top: 85.5%;
 	right: 15%;
 }
 
@@ -347,4 +363,9 @@
 	width: 6%;
 	top: 98%;
 	right: 6%;
+}
+@media (max-width: 768px) {
+	#bubbles {
+		display: none !important;
+	}
 }

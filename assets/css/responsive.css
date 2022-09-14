@@ -185,6 +185,7 @@
 /**================ bubbles ================*/
 
 /**================ Page ================*/
+
 @media screen and (min-width: 600px) {
 	/** dealer */
 	.site-dealer .site-footer {
@@ -198,7 +199,9 @@
 		/* font-size: 1.6875em; */
 		font-size: 27px;
 	}
-
+	section .content-wrap {
+		padding: 0 15px;
+	}
 	section .desc {
 		/* font-size: 1.25em; */
 		font-size: 20px;
@@ -265,6 +268,33 @@
 	#card-gift-box .card-item .list-item_slide .item .btn {
 		width: 70%;
 	}
+	/** kpth */
+	#kpth img {
+		border-radius: 15px;
+	}
+	#kpth-video {
+		margin-top: 3vw;
+		padding: 0 0 4vw;
+	}
+	#kpth-video .kpth-wrap {
+		width: 99%;
+		margin-top: 3vw;
+	}
+	#kpth-video .kpth-item {
+		display: block;
+		position: relative;
+	}
+	/*  */
+	#kpth-video .kpth-list {
+		width: 100%;
+		margin-top: 3vw;
+	}
+	#kpth-video .kpth-list .slick-arrow {
+		top: 40%;
+	}
+	#kpth-video .kpth-list .slick-arrow::before {
+		font-size: 50px;
+	}
 }
 
 @media (min-width: 992px) {
@@ -314,9 +344,6 @@
 }
 
 @media (max-width: 768px) {
-	#bubbles {
-		display: none !important;
-	}
 	#promotion_km .second-nav,
 	#promotion .second-nav {
 		display: -webkit-box;
@@ -350,3 +377,48 @@
 		position: absolute;
 	}
 } */
+@media (min-width: 375px) {
+	/*  */
+	.article-summary_img:hover img {
+		height: 200px;
+	}
+}
+@media (min-width: 834px) {
+	/*  */
+	.article-summary_img:hover img {
+		height: 150px;
+	}
+}
+/** Responsive modal  */
+
+@media (min-width: 480px) {
+	#detailModal .modal-dialog {
+		width: 95%;
+	}
+}
+@media (min-width: 768px) {
+	#detailModal .modal-dialog {
+		width: 90%;
+	}
+}
+@media (min-width: 1024px) {
+	#detailModal .modal-dialog {
+		width: 85%;
+	}
+}
+@media (min-width: 1920px) {
+	#detailModal .modal-dialog {
+		width: 80%;
+	}
+}
+
+@media (max-width: 480px) {
+	#detailModal .modal-title {
+		font-size: 19px;
+		width: 90%;
+	}
+	#detailModal .modal-body {
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+}
